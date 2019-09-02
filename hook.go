@@ -11,6 +11,7 @@ import (
 )
 
 var (
+
 	// ErrCannotCreateIndex Fired if the index is not created
 	ErrCannotCreateIndex = fmt.Errorf("cannot create index")
 )

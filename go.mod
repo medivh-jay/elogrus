@@ -1,4 +1,4 @@
-module gopkg.in/medivh-jay/elogrus.v7
+module github.com/medivh-jay/elogrus
 
 go 1.12
 
