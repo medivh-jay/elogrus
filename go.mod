@@ -1,4 +1,4 @@
-module github.com/medivh-jay/elogrus
+module github.com/medivh-jay/eslogrus
 
 go 1.12
 
