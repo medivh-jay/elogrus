@@ -1,4 +1,4 @@
-package elogrus
+package eslogrus
 
 import (
 	"context"
